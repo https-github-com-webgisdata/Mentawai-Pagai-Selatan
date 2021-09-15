@@ -1,0 +1,1 @@
+var json_PoskoPost_9 = {"type":"FeatureCollection","name":"PoskoPost_9","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name":"Posko Katuerukat","Location":"Pagai Selatan"},"geometry":{"type":"Point","coordinates":[100.33714593,-3.05413866]}}]}
